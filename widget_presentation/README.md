@@ -16,3 +16,5 @@ This project highlights three specific properties that control how the `SliverGr
 * **`maxCrossAxisExtent`**: Found within the `SliverGridDelegateWithMaxCrossAxisExtent`, this defines the maximum width of each grid item. Instead of hardcoding a set number of columns, this allows Flutter to dynamically calculate how many columns fit on the screen based on the item width.
 * **`mainAxisSpacing`**: Also within the grid delegate, this controls the amount of empty padding (in pixels) between the vertical rows as you scroll.
 * **`childCount`**: Found within the `SliverChildBuilderDelegate`, this tells the grid exactly how many total items to build before stopping.
+
+## Screenshot of UI
