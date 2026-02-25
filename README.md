@@ -4,10 +4,25 @@
 
 ## How to Run
 
-1. Ensure you have the Flutter SDK installed on your machine.
-2. Create a new Flutter project: `flutter create sliver_grid_demo`
-3. Replace the contents of your `lib/main.dart` file with the demo code.
-4. Launch your emulator or connect a device, and run: `flutter run`
+## How to Run
+
+To run this project locally, ensure you have the [Flutter SDK](https://docs.flutter.dev/get-started/install) installed on your machine.
+
+1. Clone this repository:
+   ```bash
+   git clone [https://github.com/H-levison/Flutter-Widget-Presentation.git]
+
+2. Navigate to the project directory:
+   ```bash
+   cd widget_presentation
+
+3. Fetch the project dependencies:
+   ```bash
+   flutter pub get
+
+4. Launch your emulator or connect a physical device, and run the app:
+    ```bash
+   flutter run
 
 ## Key Attributes Demonstrated
 
@@ -18,4 +33,5 @@ This project highlights three specific properties that control how the `SliverGr
 * **`childCount`**: Found within the `SliverChildBuilderDelegate`, this tells the grid exactly how many total items to build before stopping.
 
 ## Screenshot of UI
-![1001339092](https://github.com/user-attachments/assets/c783258e-1175-41b4-8c4d-f9fb2bbd55c6)
+
+![1001339092](https://github.com/user-attachments/assets/6512962f-4263-43e2-a564-9721fdbf0a03)
