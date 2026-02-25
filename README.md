@@ -18,3 +18,4 @@ This project highlights three specific properties that control how the `SliverGr
 * **`childCount`**: Found within the `SliverChildBuilderDelegate`, this tells the grid exactly how many total items to build before stopping.
 
 ## Screenshot of UI
+![1001339092](https://github.com/user-attachments/assets/c783258e-1175-41b4-8c4d-f9fb2bbd55c6)
